@@ -8,4 +8,4 @@ The following files are included:
 
 
 # Reference
-R. P. Oliveira and C. Driemeier (2013). CRAFS: a model to analyze two-dimensional X-ray diffraction patterns of plant cellulose. J. Appl. Cryst. 46, 1196-1210. See [article](http://DOI: 10.1107/S0021889813014805)
+R. P. Oliveira and C. Driemeier (2013). CRAFS: a model to analyze two-dimensional X-ray diffraction patterns of plant cellulose. J. Appl. Cryst. 46, 1196-1210. See [article](http://doi.org/10.1107/S0021889813014805)
