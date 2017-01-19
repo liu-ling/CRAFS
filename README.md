@@ -1,10 +1,10 @@
 # CRAFS
 
-CRAFS (Cellulose Rietveld Analysis for Fine Structure) is developed to analyze two-dimensional X-ray diffraction patterns from raw and processed plant cellulose. The current version of the CRAFS model runs in the MATLAB (version R2011b) computing language.
-The analytical developments presented in the published article (see reference).
+CRAFS (Cellulose Rietveld Analysis for Fine Structure) is developed to analyze two-dimensional X-ray diffraction patterns from raw and processed plant cellulose. The current version of the CRAFS model runs in the MATLAB (version R2011b) computing language. CRAFS mathematical model is presented in a published article (see reference).
 
 The following files are included:
-
+Zip file containing all mathematical functions and an example of input diffraction pattern.
+Tutorial explaining how to use CRAFS. 
 
 
 # Reference
